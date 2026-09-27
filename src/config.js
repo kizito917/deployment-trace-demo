@@ -1,3 +1,3 @@
 module.exports = {
-  checkoutTimeoutMs: 5000
+  checkoutTimeoutMs: 1500
 };
